@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1633346099 source:c:\users\utente\desktop\tutto\4a rob\sistemi\c\essistemi\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1633346594 source:c:\users\utente\desktop\tutto\4a rob\tpsit\estpsit_puntatori\main.c
+	<stdio.h>
+	<stdlib.h>
+
