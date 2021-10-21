@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1634825799 source:c:\users\utente\desktop\tutto\4a rob\tpsit\estpsit 8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
