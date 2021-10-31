@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1635691020 source:c:\users\utente\desktop\tutto\4a rob\tpsit\estpsit 6_malloc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
